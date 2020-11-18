@@ -1,5 +1,3 @@
-![stypr stat](https://github-readme-stats.vercel.app/api?username=stypr&show_icons=true&count_private=true)
-
 [https://github-readme-stats.vercel.app/api/top-langs/?username=stypr&hide=pawn&langs_count=8&layout=compact]: # (comment)
 
 ## Security / CTF / Wargame
