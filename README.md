@@ -1,4 +1,3 @@
-Currently impersonating a security engineer, in favor of writing low quality codes.
 
 ### Signed Commits
 
@@ -9,8 +8,6 @@ All commits are signed with public keys.
 ### Sending Encrypted Contents
 
 You may use the following to send armored contents.
-
-Confirm that the key ids and sha256sum matches and no difference from [harold.kim](//harold.kim/)
 
 * `B43975C459ED7A46` [//harold.kim/keys/root.pub.asc](//harold.kim/keys/root.pub.asc)
   * Use to validate general and confidential keys
