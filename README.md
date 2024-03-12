@@ -4,6 +4,7 @@
 All commits are signed with public keys.
 * `87C4CD66A509906B` [General Purpose](//harold.kim/keys/general.pub.asc)
 * `4AEE18F83AFDEB23` [GitHub Webflow](//github.com/web-flow.gpg)
+* `B5690EEEBB952194` [GitHub]
 
 ### Sending Encrypted Contents
 
