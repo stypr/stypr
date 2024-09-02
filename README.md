@@ -2,7 +2,7 @@
 
 I don't use GitHub anymore. I only use this account for reporting bugs and vulnerabilities.
 
-Most of repositiories will still be available, but I have no plans to push any updates on my repos.
+Most of repositories will still be available, but I have no plans to push any updates on my repos.
 
 ### Signed Commits
 
