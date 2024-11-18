@@ -10,7 +10,7 @@ All my commits are signed with the following keys.
 
 * General Purpose: `87C4CD66A509906B` ([Public Key](//harold.kim/keys/general.pub.asc))
 * GitHub
-  * GitHub WOrkflow: `4AEE18F83AFDEB23` ([Public Key](//github.com/web-flow.gpg))
+  * GitHub Workflow: `4AEE18F83AFDEB23` ([Public Key](//github.com/web-flow.gpg))
   * GitHub: `B5690EEEBB952194`
 
 ### Sending Encrypted Contents
