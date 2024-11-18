@@ -1,24 +1,28 @@
-### Reminder
+### Notice
 
-I don't use GitHub anymore. I only use this account for reporting bugs and vulnerabilities.
+I no longer use GitHub, and this account is now solely for reporting bugs and vulnerabilities.
 
-Most of repositories will still be available, but I have no plans to push any updates on my repos.
+I do not plan to push any further updates to my repoitory while most of them will remain accessible.
 
-### Signed Commits
+### Commit Verification
 
-All commits are signed with public keys.
-* `87C4CD66A509906B` [General Purpose](//harold.kim/keys/general.pub.asc)
-* GitHub Keys
-  * `4AEE18F83AFDEB23` [GitHub Webflow](//github.com/web-flow.gpg)
-  * `B5690EEEBB952194` [GitHub](//github.com)
+All my commits are signed with the following keys.
+
+* General Purpose: `87C4CD66A509906B` ([Public Key](//harold.kim/keys/general.pub.asc))
+* GitHub
+  * GitHub WOrkflow: `4AEE18F83AFDEB23` ([Public Key](//github.com/web-flow.gpg))
+  * GitHub: `B5690EEEBB952194`
 
 ### Sending Encrypted Contents
 
-You may use the following keys to send armored contents.
+To send an encrypted content, you may use the following keys:
 
-* `B43975C459ED7A46` [Root](//harold.kim/keys/root.pub.asc)
-  * `87C4CD66A509906B` [General Purpose](//harold.kim/keys/general.pub.asc)
-  * `F01CD491240E43A6` [Confidential](//harold.kim/keys/confidential.pub.asc)
+* Root Key: `B43975C459ED7A46` ([Public Key](//harold.kim/keys/root.pub.asc))
+  * General Purpose: `87C4CD66A509906B` ([Public Key](//harold.kim/keys/general.pub.asc))
+  * Confidentials: `F01CD491240E43A6` ([Public Key](//harold.kim/keys/confidential.pub.asc))
 
-* You may also use [WKD](https://wiki.gnupg.org/WKD) as an alternative method.
-  * `gpg --locate-keys me@harold.kim`
+Alternatively, you can use [WKD](https://wiki.gnupg.org/WKD) to locate my keys.
+
+```bash
+gpg --locate-keys me@harold.kim
+```
